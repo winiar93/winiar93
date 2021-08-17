@@ -8,7 +8,7 @@ Amateur radio operator since 2019.
 My call sign is ```SP9RC```
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on micropython devices like raspberr pi pico
 - 🌱 I’m currently learning webscraping and iot programming
