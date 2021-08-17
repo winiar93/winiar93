@@ -11,7 +11,7 @@ My call sign is ```SP9RC```
 
 
 - 🔭 I’m currently working on micropython devices like raspberr pi pico
-- 🌱 I’m currently learning webscraping and iot programming
+- 🌱 I’m currently learning web scraping and iot programming
 - 📫 How to reach me: ```winiar93@gmail.com```
 
 #### Language and tech:
