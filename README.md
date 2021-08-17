@@ -3,14 +3,14 @@
 
 #### About me
 I'm junior data engineer/data analyst. Fascinated by new technologies, very curious about the world and how things work.
-In free time build devices based on microcontrolers like Raspberry pi or esp32.
+In free time build devices based on microcontrolers like raspberry pi or esp32.
 Amateur radio operator since 2019.
 My call sign is ```SP9RC```
 
 
 
 
-- 🔭 I’m currently working on micropython devices like raspberr pi pico
+- 🔭 I’m currently working on raspberry pi pico with micropython
 - 🌱 I’m currently learning web scraping and iot programming
 - 📫 How to reach me: ```winiar93@gmail.com```
 
@@ -18,6 +18,7 @@ My call sign is ```SP9RC```
 
 
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python_256x256.png" />
+<img align="left" alt="upython" width="26px" src="https://micropython.org/static/img/Mlogo_138wh.png" />
 <img align="left" alt="pandas" width="26px" src="https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22261-panda-face-icon.png" />
 <img align="left" alt="SQL" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" />
 <img align="left" alt="scrapy" width="26px" src="https://steemitimages.com/p/x7L2VSNEiyAFMrpiG2ns3CB2gK32YGyd3PzYWd5t2qpCdo6bect8Mceakn4wQhEiyJBt6dt5cAGb3eW?format=match&mode=fit&width=640" />
