@@ -10,8 +10,8 @@ My call sign is ```SP9RC```
 
 
 
-- 🔭 I’m currently working on raspberry pi pico with micropython
-- 🌱 I’m currently learning web scraping and iot programming
+- 🔭 I’m currently working on pyspark server on raspberry pi
+- 🌱 I’m currently learning web scraping and pyspark
 - 📫 How to reach me: ```winiar93@gmail.com```
 
 #### Language and tech:
