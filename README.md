@@ -11,8 +11,8 @@ My call sign is ```SP9RC```
 
 
 
-- 🔭 I’m currently working on pyspark server on raspberry pi
-- 🌱 I’m currently learning web scraping and pyspark
+- 🔭 I’m currently working on micropython boards
+- 🌱 I’m currently learning data engineering process automation
 - 📫 How to reach me: ```winiar93@gmail.com```
 
 #### Language and tech:
