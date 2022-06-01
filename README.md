@@ -3,7 +3,7 @@
 
 #### About me
 I'm junior data engineer/data analyst. Fascinated by new technologies, very curious about the world and how things work.
-Interested in big data technologies and data prorcessing.
+Interested in big data technologies and data processing.
 In free time build devices based on microcontrolers like raspberry pi or esp32.
 Amateur radio operator since 2019.
 My call sign is ```SP9RC```
