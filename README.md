@@ -1,31 +1,17 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on IOT devices powered by micropython<br>🌱 I’m currently learning asynchronous programming<br>
 
 
-#### About me
-I'm junior data engineer/data analyst. Fascinated by new technologies, very curious about the world and how things work.
-Interested in big data technologies and data processing.
-In free time build devices based on microcontrolers like raspberry pi or esp32.
-Amateur radio operator since 2019.
-My call sign is ```SP9RC```
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/michaldataengineer/) 
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=winiar93&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=winiar93&theme=dark&hide_border=false)<br/>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=winiar93&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-- 🔭 I’m currently working on micropython boards
-- 🌱 I’m currently learning data engineering process automation
-- 📫 How to reach me: ```winiar93@gmail.com```
-
-#### Language and tech:
-
-
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python_256x256.png" />
-<img align="left" alt="upython" width="26px" src="https://micropython.org/static/img/Mlogo_138wh.png" />
-<img align="left" alt="pandas" width="26px" src="https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22261-panda-face-icon.png" />
-<img align="left" alt="SQL" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" />
-<img align="left" alt="scrapy" width="26px" src="https://steemitimages.com/p/x7L2VSNEiyAFMrpiG2ns3CB2gK32YGyd3PzYWd5t2qpCdo6bect8Mceakn4wQhEiyJBt6dt5cAGb3eW?format=match&mode=fit&width=640" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="raspberrypi" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/raspberry_pi_icon_130847.png" />
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
