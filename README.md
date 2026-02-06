@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on IOT devices powered by micropython<br>🌱 I’m currently learning asynchronous programming<br>
+🔭 Building and experimenting with data pipelines<br>🌱 Currently learning dbt and the latest Prefect 3 for modern orchestration<br>
 
 
 ## 🌐 Socials:
