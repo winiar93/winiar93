@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building and experimenting with data pipelines<br>🌱 Currently learning dbt and the latest Prefect 3 for modern orchestration<br>
+🔭 Building and experimenting with data pipelines<br>🌱 I enjoy building various projects with ESP32 and MicroPython. Sometimes I also build custom keyboards as a hobby.
 
 
 ## 🌐 Socials:
